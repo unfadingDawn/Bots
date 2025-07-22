@@ -1,0 +1,4 @@
+services:
+  encrypt-bot:
+    build: .
+    restart: always
